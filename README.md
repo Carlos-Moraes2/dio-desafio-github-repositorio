@@ -1,4 +1,5 @@
 # Desafio de Projeto sobre Git/GitHub da Dio
+---
 Repositório criado para o desafio de Projeto.
 
 ## Links Úteis
@@ -30,3 +31,18 @@ Lista de Tarefas:
 - [x] Criar á pagina da loja
 - [ ] Finalizar a reunião com o cliente
 - [ ] Receber pagamento
+
+### Inserindo imagem
+![Github Header](https://github.com/Carlos-Moraes2/dio-desafio-github-repositorio/assets/113129034/5dd5fe5e-02f7-4124-8ded-969fcbf6796c)
+
+### Criando Link:
+[Acesse meu Github](https://github.com/Carlos-Moraes2)
+
+### Criando uma Tabela:
+Num | Nome | Nota
+---|---|---
+1 | Carlo| 8,5
+2 | Rafael| 7,0
+3 | Alicia| 10,0
+
+Terminou a tabela
