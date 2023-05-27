@@ -9,7 +9,7 @@ Repositório criado para o desafio de Projeto.
 ***
 Podemos __*misturar*__ configurações
 
-Lista numerada:
+### Lista númerada:
 
 1. Teste
 2. Teste2
@@ -18,7 +18,7 @@ Lista numerada:
 4. Teste4
 5. Teste5
 
-Lista demarcada:
+### Lista demarcada:
 
 * Teste
 * Teste
@@ -26,7 +26,7 @@ Lista demarcada:
    * Teste
  * Teste
 
-Lista de Tarefas:
+### Lista de Tarefas:
 - [x] Criar a página principal
 - [x] Criar á pagina da loja
 - [ ] Finalizar a reunião com o cliente
@@ -46,3 +46,17 @@ Num | Nome | Nota
 3 | Alicia| 10,0
 
 Terminou a tabela
+
+### Trecho de comandos
+
+Não entendo direito para que seve o comando `document.getElementByid()` da linguagem JavaScript
+
+Olha meu programa em python
+``` 
+num = int(input('Digite um valor:")
+if num % 2 == 0:
+    print(f'O valor {num}')é PAR')
+else:
+   print(f'O valor {num} é ÍMPAR')
+``` 
+
