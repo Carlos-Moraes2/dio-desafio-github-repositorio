@@ -60,3 +60,4 @@ else:
    print(f'O valor {num} é ÍMPAR')
 ``` 
 
+Seja bem vindo a minha rede 🖖 🦅 😉
