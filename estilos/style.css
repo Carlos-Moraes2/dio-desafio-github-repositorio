@@ -4,12 +4,12 @@
 }
 
 body{
-    background-color: rgb(204, 171, 234);
+    background-color: rgba(101, 97, 226, 0.665);
 
 }
 
 main{
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     width: 500px;
     margin: auto;
     padding: 10px;
